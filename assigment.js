@@ -51,6 +51,3 @@ function megaFriend(myarray){
     }
     return maxName;
 }
-var megaName = megaFriend(FriendName);
-
-console.log(megaName);
